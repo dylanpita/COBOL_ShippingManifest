@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{535C04D7-A2A5-47C7-83E0-B340A995CD1F}") = "TablesExercise", "TablesExercise\TablesExercise.cblproj", "{21516F11-7D78-4034-B0A8-8C632A88C7CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21516F11-7D78-4034-B0A8-8C632A88C7CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21516F11-7D78-4034-B0A8-8C632A88C7CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21516F11-7D78-4034-B0A8-8C632A88C7CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21516F11-7D78-4034-B0A8-8C632A88C7CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54F7A7E0-C754-419C-90C3-54C4418835FE}
+	EndGlobalSection
+EndGlobal

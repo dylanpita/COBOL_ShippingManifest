@@ -1,0 +1,8 @@
+C:\Users\dylan\Desktop\COBOL\TablesExercise\TablesExercise\bin\Debug\TablesExercise.exe
+C:\Users\dylan\Desktop\COBOL\TablesExercise\TablesExercise\bin\Debug\TablesExercise.pdb
+C:\Users\dylan\Desktop\COBOL\TablesExercise\TablesExercise\bin\Debug\TablesExercise.TablesExercise_Program1.idy
+C:\Users\dylan\Desktop\COBOL\TablesExercise\TablesExercise\obj\Debug\TablesExercise.cblprojAssemblyReference.cache
+C:\Users\dylan\Desktop\COBOL\TablesExercise\TablesExercise\obj\Debug\TablesExercise.cblproj.CoreCompileInputs.cache
+C:\Users\dylan\Desktop\COBOL\TablesExercise\TablesExercise\obj\Debug\TablesExercise.TablesExercise_Program1.idy
+C:\Users\dylan\Desktop\COBOL\TablesExercise\TablesExercise\obj\Debug\TablesExercise.exe
+C:\Users\dylan\Desktop\COBOL\TablesExercise\TablesExercise\obj\Debug\TablesExercise.pdb
